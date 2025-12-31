@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 
 
+
 ### Tech Stack⚙️
 
 **Frontend**  
@@ -59,11 +60,13 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-3772AB?logo=JavaScript&logoColor=white)
 
 
+
 ### Awards🏆
 - CJ SW 창의캠프 베스트 유닛상 (2024.07)
 - CJ SW 창의캠프 베스트 팀워크상 (2024.07)
 
 
- ### Certificate📜
+
+### Certificate📜
  - 정보처리기사 (2025.09)
  - 네트워크관리사 2급 (2025.09)
